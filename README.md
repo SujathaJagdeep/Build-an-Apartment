@@ -48,7 +48,6 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - I have worked really hard to ensure that "My Apartment" has an attractive model placement and nice baked lighting. 
 - I have added a background city sound such as starting a vehicle engine.
 - I have also added other apartment sounds such as opening of doors and windows, music playing on the TV, human footsteps on wooden floor for the recticle, and opening/closing of cabinets in the kitchen.
-- I wish to further improve upon the sounds by spatializing them in the near future.
 
 ### My Reflection and Conclusion
 - I took almost a week to complete "My Apartment", as I worked on it very closely to ensure that it meets all the project specifications.
