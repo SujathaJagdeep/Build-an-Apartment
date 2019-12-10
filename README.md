@@ -6,7 +6,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 
 ### Versions Used
-- [Unity LTS Release 2017.4.19](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
+- [Unity LTS Release 2018.4.0](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 - [GVR SDK for Unity v1.170.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.170.0)
 
 
@@ -56,7 +56,6 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - I really enjoyed the fact that I was able to build "My Apartment" from scratch.
 - I have animated the Globe. 
 - I really enjoyed developing my 'Build an Apartment App' with all the optional features and learned a lot during the process. 
-- I am proud of my Final Project Output.
 
 ### Your Feedback Incorporated
 - I have marked the Udacity Icon as Static.
@@ -67,7 +66,3 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 1. Engines. Retrieved March 5, 2019, from https://assetstore.unity.com/packages/audio/sound-fx/engines-123836
 2. Rotary x8 - FREE Engine Sound Pack. Retrieved March 5, 2019, from https://assetstore.unity.com/packages/audio/sound-fx/transportation/rotary-x8-free-engine-sound-pack-106119
 3. Western Audio & Music. Retrieved March 5, 2019, from https://assetstore.unity.com/packages/audio/sound-fx/western-audio-music-67788
-
-
-Kind Regards,
-Sujatha.
