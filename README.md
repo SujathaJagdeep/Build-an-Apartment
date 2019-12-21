@@ -56,7 +56,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - I have animated the Globe. 
 - I really enjoyed developing my 'Build an Apartment App' with all the optional features and learned a lot during the process. 
 
-### Your Feedback Incorporated
+### Feedback Incorporated
 - I have marked the Udacity Icon as Static.
 - I have changed the directional light to realtime, along with adding another spot light to make the globe readily visible.
 - I have made the globe to switch between spin and rest states, so that when the Google Cardboard button is pressed, the globe spins until you press the button again.
